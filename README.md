@@ -22,7 +22,7 @@ In the output layer as there is two output as it is a binary classification and 
 ![accuracy](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20accuracy.png)
 
 # Training and validation loss:
-![loss](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20loss.png
+![loss](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20loss.png)
 
 # output:
   ![result](https://github.com/rakib1521/Face-Mask-Detection/blob/master/result.PNG)
