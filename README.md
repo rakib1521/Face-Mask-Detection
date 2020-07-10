@@ -16,13 +16,14 @@ Activation :Relu
 In the output layer as there is two output as it is a binary classification and activation is sigmoid.
 
 # Summary of Model:
-![Summary of Model](http://)
+![Summary of Model](https://github.com/rakib1521/Face-Mask-Detection/blob/master/model.PNG)
+
 # Training and validation accuracy:
-![accuracy](http://)
+![accuracy](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20accuracy.png)
 
 # Training and validation loss:
-![loss](http://)
+![loss](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20loss.png
 
 # output:
-  ![result](http://)
+  ![result](https://github.com/rakib1521/Face-Mask-Detection/blob/master/result.PNG)
 
