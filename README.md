@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face Mask Detection
 This model can identify if some one wearing mask from image. 
 this is a binary classification model. created using tensorflow and keras.
 
@@ -6,12 +6,14 @@ this is a binary classification model. created using tensorflow and keras.
 
 A convolutional neural network is one of the main categories to do images recognition, images classifications. Objects detections recognize faces, etc., are some of the areas where CNNs are widely used. 
 In this model, there are 4 convolution layer followed boy max-pooling layer and in each layer. 
-Stride: 1
-Padding: valid 
-activation : Relu
+
+* Stride: 1
+* Padding: valid 
+* activation : Relu
 
 After 4 convolution layer, there is a flatten layer then there is 5 fully connected dense layer.
-Activation :Relu
+
+* Activation :Relu
 
 In the output layer as there is two output as it is a binary classification and activation is sigmoid.
 
